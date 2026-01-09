@@ -1,1 +1,1 @@
-# ollamaLocalFastTranslation
+# 性感AI本地在线翻译
